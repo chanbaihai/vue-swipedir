@@ -1,6 +1,7 @@
 # vue-swipedir
 create a  moible swipe directive of vue
 # 使用方法
+在入口文件import然后Vue.use（）一下就可以使用指令了
 v-swipe="<Object>"
   Object为data或props提供的对象
 Object{
