@@ -1,7 +1,8 @@
 # vue-swipedir
 create a  moible swipe directive of vue
 # 使用方法
-在入口文件import然后Vue.use（）一下就可以使用指令了  
+在入口文件import然后Vue.use（）一下就可以使用指令了    
+或者script link，在node_modules下面找到这个包下面的index.js文件 link过去
 
 `v-swipe="<Object>"  
 
